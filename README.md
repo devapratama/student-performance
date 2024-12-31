@@ -133,6 +133,9 @@ Dashboard dapat diakses melalui [link berikut]([https://public.tableau.com](http
 
 ![dashboard](dropout.png)
 
+## Streamlit Web App
+Untuk prediksi student performance dengan streamlit dapat diakses melalui link berikut: https://student-performance-predictions.streamlit.app/
+
 ---
 
 ## Kesimpulan
