@@ -129,7 +129,7 @@ Dashboard ini memberikan visualisasi interaktif tentang faktor-faktor yang memen
 2. Tingkat dropout berdasarkan nilai semester.
 3. Tingkat dropout berdasarkan usia ketika berkuliah.
 
-Dashboard dapat diakses melalui [link berikut]([https://public.tableau.com](https://public.tableau.com/app/profile/deva.pratama/viz/StudentPerformance_17356384602850/Dashboard3?publish=yes)).
+Dashboard dapat diakses melalui [link berikut](https://public.tableau.com/app/profile/deva.pratama/viz/StudentPerformance_17356384602850/Dashboard3?publish=yes)
 
 ![dashboard](dropout.png)
 
